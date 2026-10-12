@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -121,4 +122,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
