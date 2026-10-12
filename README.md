@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0036-valid-sudoku](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [1861-rotating-the-box](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [2540-minimum-common-value](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
