@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [1345-jump-game-iv](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1345-jump-game-iv/) | Hard |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0788-rotated-digits/) | Medium |
