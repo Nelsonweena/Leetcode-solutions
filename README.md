@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0788-rotated-digits/) | Medium |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,4 +177,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 <!---LeetCode Topics End-->
