@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-jump-game-iv](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1861-rotating-the-box](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1861-rotating-the-box/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -141,8 +142,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [1861-rotating-the-box](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1861-rotating-the-box/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 <!---LeetCode Topics End-->
