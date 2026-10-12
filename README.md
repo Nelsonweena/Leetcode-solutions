@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1306-jump-game-iii](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [1306-jump-game-iii](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1345-jump-game-iv/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -102,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2540-minimum-common-value](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1306-jump-game-iii](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 <!---LeetCode Topics End-->
