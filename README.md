@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0036-valid-sudoku](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -210,4 +212,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
