@@ -30,15 +30,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
