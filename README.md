@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
 ## Hash Table
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0788-rotated-digits/) | Medium |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
