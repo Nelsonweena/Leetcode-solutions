@@ -9,19 +9,18 @@ class Solution:
                 if not dp[i][j]:
                     continue
 
-                if s[i] == '(':
+                c = s[i]
+                if c == '(':
                     if j < n:
                         dp[i + 1][j + 1] = True
-
-                elif s[i] == ')':
+                elif c == ')':
                     if j > 0:
                         dp[i + 1][j - 1] = True
-
-                else:  # '*'
-                    dp[i + 1][j] = True       # Empty
+                else:
+                    dp[i + 1][j] = True
                     if j < n:
-                        dp[i + 1][j + 1] = True  # '('
+                        dp[i + 1][j + 1] = True
                     if j > 0:
-                        dp[i + 1][j - 1] = True  # ')'
-
+                        dp[i + 1][j - 1] = True
+        
         return dp[n][0]
