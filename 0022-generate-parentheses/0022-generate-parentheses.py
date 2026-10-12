@@ -1,21 +1,12 @@
 class Solution(object):
     def generateParenthesis(self, n):
-        result = []
+        dp = [[] for _ in range(n + 1)]
+        dp[0] = [""]
 
-        def backtrack(current, open_count, close_count):
-            # If the string is complete
-            if len(current) == 2 * n:
-                result.append(current)
-                return
+        for i in range(1, n + 1):
+            for j in range(i):
+                for a in dp[j]:
+                    for b in dp[i - 1 - j]:
+                        dp[i].append("(" + a + ")" + b)
 
-            # Add '(' if we still can
-            if open_count < n:
-                backtrack(current + '(', open_count + 1, close_count)
-
-            # Add ')' only if it keeps the string valid
-            if close_count < open_count:
-                backtrack(current + ')', open_count, close_count + 1)
-
-        backtrack("", 0, 0)
-        return result
-        
+        return dp[n]
