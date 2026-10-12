@@ -1,26 +1,21 @@
 class Solution:
     def checkValidString(self, s: str) -> bool:
-        n = len(s)
-        dp = [[False] * (n + 1) for _ in range(n + 1)]
-        dp[0][0] = True
+        low = high = 0
 
-        for i in range(n):
-            for j in range(n + 1):
-                if not dp[i][j]:
-                    continue
+        for c in s:
+            if c == '(':
+                low += 1
+                high += 1
+            elif c == ')':
+                low -= 1
+                high -= 1
+            else:
+                low -= 1
+                high += 1
 
-                c = s[i]
-                if c == '(':
-                    if j < n:
-                        dp[i + 1][j + 1] = True
-                elif c == ')':
-                    if j > 0:
-                        dp[i + 1][j - 1] = True
-                else:
-                    dp[i + 1][j] = True
-                    if j < n:
-                        dp[i + 1][j + 1] = True
-                    if j > 0:
-                        dp[i + 1][j - 1] = True
-        
-        return dp[n][0]
+            if high < 0:
+                return False
+
+            low = max(low, 0)
+
+        return low == 0
