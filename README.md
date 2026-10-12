@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0396-rotate-function/) | Medium |
 | [1306-jump-game-iii](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1345-jump-game-iv/) | Hard |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 ## Heap (Priority Queue)
