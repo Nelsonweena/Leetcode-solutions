@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
 ## Stack
@@ -135,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 <!---LeetCode Topics End-->
