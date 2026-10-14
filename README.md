@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
 ## Bit Manipulation
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0788-rotated-digits](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/0788-rotated-digits/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
