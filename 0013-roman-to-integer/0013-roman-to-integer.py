@@ -16,8 +16,7 @@ class Solution(object):
         ans = 0
         for i in range(len(s)):
             ans += roman[s[i]]
-            if i > 0:
-                if roman[s[i]] > roman[s[i-1]]:
-                    ans -= roman[s[i - 1]] * 2
+            if i > 0 and roman[s[i]] > roman[s[i-1]]:
+                ans -= roman[s[i - 1]] * 2
 
         return ans 
