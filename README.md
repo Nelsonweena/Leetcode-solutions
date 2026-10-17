@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nelsonweena/Leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Heap (Priority Queue)
